@@ -13,8 +13,8 @@ const PersonalWebsite = ({
   portfolioData = []
 }) => {
   const defaultPersonalInfo = {
-    displayName: "Your Name",
-    tagline: "Full-stack developer & designer"
+    displayName: "Ying",
+    tagline: "A translator. A marketer. A newbee developer."
   };
 
   const info = { ...defaultPersonalInfo, ...personalInfo };

@@ -21,7 +21,7 @@ const GlobalFooter = () => {
             transition={{ duration: 0.6, delay: 0.1 }}
             viewport={{ once: true }}
           >
-            © {currentYear} Your Name. All rights reserved.
+            © {currentYear} Ying Zhang. All rights reserved.
           </motion.p>
           
           <motion.div 
@@ -56,7 +56,7 @@ const GlobalFooter = () => {
             viewport={{ once: true }}
           >
             <p className="text-sm text-text-muted">
-              Made with ❤️ using the Retool-inspired Design System
+              Made with ❤️ and a lot of tokens 🙂
             </p>
           </motion.div>
         </div>

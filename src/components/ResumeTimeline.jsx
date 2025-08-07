@@ -5,28 +5,28 @@ import { Card } from '../../design-system/components/index.js';
 const ResumeTimeline = ({ timelineData = [] }) => {
   const defaultTimeline = [
     {
-      year: '2024',
-      title: 'Senior Developer',
-      company: 'Tech Company',
-      description: 'Led development of multiple web applications using React and Node.js'
+      year: '2025',
+      title: 'Marketing Manager',
+      company: 'Shenzhen Shilihu Technology Co., Ltd.',
+      description: 'Led the marketing team to develop and implement marketing strategies and campaigns to increase brand awareness and sales.'
     },
     {
-      year: '2022',
-      title: 'Full-stack Developer',
-      company: 'Startup Inc',
-      description: 'Built and maintained various web applications and APIs'
+      year: '2023',
+      title: 'IELTS Teacher',
+      company: 'New Channel Education',
+      description: 'Taught IELTS to students and helped them improve their English skills.'
     },
     {
-      year: '2020',
-      title: 'Frontend Developer',
-      company: 'Digital Agency',
-      description: 'Created responsive user interfaces and interactive web experiences'
+      year: '2021',
+      title: 'Content Marketing Manager',
+      company: 'Guangzhou Kugou Information Technology Co., Ltd.',
+      description: 'Led the content marketing team to develop and implement content marketing strategies and campaigns to increase brand awareness and engagement.'
     },
     {
-      year: '2018',
-      title: 'Junior Developer',
-      company: 'Software Studio',
-      description: 'Started career in web development with focus on modern technologies'
+      year: '2019',
+      title: 'Content Marketer',
+      company: 'Guangzhou Moreless Information Technology Co., Ltd.',
+      description: 'Created and published content for the company\'s social media platforms to increase brand awareness and engagement.'
     }
   ];
 

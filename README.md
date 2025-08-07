@@ -194,4 +194,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Built with ❤️ using the Retool-inspired Design System
+Built with ❤️ and a lot of tokens 🙂

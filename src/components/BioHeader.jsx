@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-const BioHeader = ({ displayName = "Your Name", tagline = "Full-stack developer & designer" }) => {
+const BioHeader = ({ displayName = "Ying", tagline = "A translator. A marketer. A newbee developer." }) => {
   return (
     <motion.section 
       className="py-20 text-center"

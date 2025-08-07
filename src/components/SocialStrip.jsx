@@ -5,11 +5,11 @@ import { Mail } from 'lucide-react';
 
 const SocialStrip = ({ socialLinks = {} }) => {
   const defaultLinks = {
-    github: 'https://github.com/yourusername',
-    twitter: 'https://twitter.com/yourusername',
-    linkedin: 'https://linkedin.com/in/yourusername',
-    discord: 'https://discord.gg/yourusername',
-    email: 'mailto:your.email@example.com'
+    github: 'https://github.com/zhy9495',
+    twitter: 'https://x.com/yingzhang_5',
+    linkedin: 'https://www.linkedin.com/in/yingzhang-515/',
+    discord: 'https://discord.gg/ying01060',
+    email: 'mailto:zhy9495@hotmail.com'
   };
 
   const links = { ...defaultLinks, ...socialLinks };

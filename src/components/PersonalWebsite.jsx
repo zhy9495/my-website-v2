@@ -14,7 +14,7 @@ const PersonalWebsite = ({
 }) => {
   const defaultPersonalInfo = {
     displayName: "Ying",
-    tagline: "A translator. A marketer. A newbee developer."
+    tagline: "A translator. A marketer. A newbie developer."
   };
 
   const info = { ...defaultPersonalInfo, ...personalInfo };

@@ -1,4 +1,5 @@
 // Personal Website Components
+export { default as Header } from './Header.jsx';
 export { default as BioHeader } from './BioHeader.jsx';
 export { default as SocialStrip } from './SocialStrip.jsx';
 export { default as ResumeTimeline } from './ResumeTimeline.jsx';
